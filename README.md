@@ -19,4 +19,3 @@ code .
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 ## License
 [MIT](https://github.com/sevvalsay/kodluyoruzilkrepo/blob/main/LICENSE)
-
